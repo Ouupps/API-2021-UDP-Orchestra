@@ -1,40 +1,43 @@
-origin	https://github.com/Ouupps/API-2021-UDP-Orchestra.git (fetch)
-origin	https://github.com/Ouupps/API-2021-UDP-Orchestra.git (push)
-Starting auditor container "a80ee358744612969b1a187c96abfcf194f186407cd092e1713ac1c1313c97ee"
-Starting auditor container "3da70d6eaec3c86d79fb7997e2b121d2419d69dce97c1d72945273bd32dbf1d4"
-Starting auditor container "2994b7dce6456afeda9c1bc9d777d6c2dd2996830b34f7ca06f620bd313ac777"
-Starting auditor container "190c4f05b07504577eff408e2e086e33bc1538f3c4c7ab0c55d5e8d06f8f832c"
-Starting auditor container "657afc7c595e2a452616b5cc036216e29f4fb7b37691f57c2be316967af15b3d"
-Starting auditor container "af900ddaf8a11ff56390e5f71e032bd0c6a7d6d51bc79f062a8e11a4b0840a73"
-Starting auditor container "ac59867bd140c73f06c123d0c813b46bd9fff0d0089f8ba92e285b4aa9a56876"
-Starting auditor container "e558fbd9d661b35b9de8d0fcc5896a599768949e73b0bea3218f2341376526b0"
-Starting auditor container "cedab5af5456fb7b0a7ba613036e92f53f859e30814af2df18d6ce5b8f898864"
-Starting auditor container "75053a2399adf044b6a28691c3588afc2d2c31ca48e30e6502300383596abc2c"
-Starting auditor container "49147303ac12e9a7bf90280e48b3b40e4ca47a65712c18d52caaec72dedfaabb"
+origin	git@github.com:Ouupps/API-2021-UDP-Orchestra.git (fetch)
+origin	git@github.com:Ouupps/API-2021-UDP-Orchestra.git (push)
+Starting auditor container "20d6aa4cd6a144dc019fe7cffaceeffb67431f8269d50688456c2c4c09618b9c"
+Starting auditor container "57c5571cb114890118e8f1ff182373e7c04f980575a3db3924b85e8446b845a1"
+Starting auditor container "a2851c3d000237d65f5703e5e3a222668933f3f8d8103addc19bbed9250f3c79"
+Starting auditor container "9a77d58c5df96a1585fbe75dbbb46186343e5ac2dbc293c9180e38424d059c67"
+Starting auditor container "ee07236c62fd9b65a72513f3a4f64854bc67c46ec1c08576046b0262c5b2c09c"
+Starting auditor container "1621eb7c13547081e11bd44130dd3f304990b2db0ad0476dabb3edc49cc93cd8"
+Starting auditor container "de593a5f3809ad9bda6a982422de42b7ac8ebb72f08f46ecf699298437c32f7e"
+Starting auditor container "fc51fc90adf329bbf412c6a586a444a9851db5fde4b8bdc486be0f3ee1428312"
+Starting auditor container "904c11cf81f1348519289c5412baf49b3e3a439fdc93469d73a200b042551c88"
+Starting auditor container "e71d0f15f7004b95d0a896dda6453385ab97925fc2f587f10c0d908b9026e369"
+Starting auditor container "0b5c82a10ae95c136bc294498c54c5c61da02bda9950280b51736081414daf60"
 11 containers have been started.
-75053a2399adf044b6a28691c3588afc2d2c31ca48e30e6502300383596abc2c : /srv/src/musician.js,drum
-cedab5af5456fb7b0a7ba613036e92f53f859e30814af2df18d6ce5b8f898864 : /srv/src/musician.js,trumpet
-e558fbd9d661b35b9de8d0fcc5896a599768949e73b0bea3218f2341376526b0 : /srv/src/musician.js,trumpet
-2994b7dce6456afeda9c1bc9d777d6c2dd2996830b34f7ca06f620bd313ac777 : /srv/src/musician.js,flute
-3da70d6eaec3c86d79fb7997e2b121d2419d69dce97c1d72945273bd32dbf1d4 : /srv/src/musician.js,piano
-ac59867bd140c73f06c123d0c813b46bd9fff0d0089f8ba92e285b4aa9a56876 : /srv/src/musician.js,trumpet
-a80ee358744612969b1a187c96abfcf194f186407cd092e1713ac1c1313c97ee : /srv/src/musician.js,violin
-49147303ac12e9a7bf90280e48b3b40e4ca47a65712c18d52caaec72dedfaabb : /srv/src/musician.js,drum
-af900ddaf8a11ff56390e5f71e032bd0c6a7d6d51bc79f062a8e11a4b0840a73 : /srv/src/musician.js,violin
-190c4f05b07504577eff408e2e086e33bc1538f3c4c7ab0c55d5e8d06f8f832c : /srv/src/musician.js,trumpet
-657afc7c595e2a452616b5cc036216e29f4fb7b37691f57c2be316967af15b3d : /srv/src/auditor.js
-Auditor validation: success: ["drum","drum","flute","piano","trumpet","trumpet","trumpet","trumpet","violin","violin"]
+57c5571cb114890118e8f1ff182373e7c04f980575a3db3924b85e8446b845a1 : /srv/src/musician.js,flute
+904c11cf81f1348519289c5412baf49b3e3a439fdc93469d73a200b042551c88 : /srv/src/musician.js,trumpet
+a2851c3d000237d65f5703e5e3a222668933f3f8d8103addc19bbed9250f3c79 : /srv/src/musician.js,trumpet
+de593a5f3809ad9bda6a982422de42b7ac8ebb72f08f46ecf699298437c32f7e : /srv/src/musician.js,trumpet
+9a77d58c5df96a1585fbe75dbbb46186343e5ac2dbc293c9180e38424d059c67 : /srv/src/musician.js,violin
+ee07236c62fd9b65a72513f3a4f64854bc67c46ec1c08576046b0262c5b2c09c : /srv/src/musician.js,flute
+fc51fc90adf329bbf412c6a586a444a9851db5fde4b8bdc486be0f3ee1428312 : /srv/src/musician.js,trumpet
+e71d0f15f7004b95d0a896dda6453385ab97925fc2f587f10c0d908b9026e369 : /srv/src/musician.js,piano
+20d6aa4cd6a144dc019fe7cffaceeffb67431f8269d50688456c2c4c09618b9c : /srv/src/musician.js,drum
+1621eb7c13547081e11bd44130dd3f304990b2db0ad0476dabb3edc49cc93cd8 : /srv/src/musician.js,piano
+0b5c82a10ae95c136bc294498c54c5c61da02bda9950280b51736081414daf60 : /srv/src/auditor.js
+Auditor validation: success: ["drum","flute","flute","piano","piano","trumpet","trumpet","trumpet","trumpet","violin"]
 There are 10 musicians, let's kill one
-killed a80ee358744612969b1a187c96abfcf194f186407cd092e1713ac1c1313c97ee
-Auditor validation: success: ["drum","drum","flute","piano","trumpet","trumpet","trumpet","trumpet","violin"]
+killed 20d6aa4cd6a144dc019fe7cffaceeffb67431f8269d50688456c2c4c09618b9c
+Auditor validation: success: ["flute","flute","piano","piano","trumpet","trumpet","trumpet","trumpet","violin"]
 Scheduling a new test
 There are 9 musicians, let's kill one
-killed 3da70d6eaec3c86d79fb7997e2b121d2419d69dce97c1d72945273bd32dbf1d4
-Auditor validation: success: ["drum","drum","flute","trumpet","trumpet","trumpet","trumpet","violin"]
+killed ee07236c62fd9b65a72513f3a4f64854bc67c46ec1c08576046b0262c5b2c09c
+Auditor validation: success: ["flute","piano","piano","trumpet","trumpet","trumpet","trumpet","violin"]
 Scheduling a new test
 There are 8 musicians, let's kill one
-killed 2994b7dce6456afeda9c1bc9d777d6c2dd2996830b34f7ca06f620bd313ac777
-Auditor validation: success: ["drum","drum","trumpet","trumpet","trumpet","trumpet","violin"]
+killed 9a77d58c5df96a1585fbe75dbbb46186343e5ac2dbc293c9180e38424d059c67
+Auditor validation: success: ["flute","piano","piano","trumpet","trumpet","trumpet","trumpet"]
 Scheduling a new test
 There are 7 musicians, let's kill one
-killed e558fbd9d661b35b9de8d0fcc5896a599768949e73b0bea3218f2341376526b0
+killed de593a5f3809ad9bda6a982422de42b7ac8ebb72f08f46ecf699298437c32f7e
+Auditor validation: success: ["flute","piano","piano","trumpet","trumpet","trumpet"]
+Scheduling a new test
+We have done all tests.
